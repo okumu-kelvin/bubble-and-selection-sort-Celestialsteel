@@ -19,5 +19,4 @@ def main():
 if __name__ == "__main__":
     main()        
 
-    sorted_list = bubble_sort(unsorted_list)
-    print("Sorted list is:", sorted_list)
+    
