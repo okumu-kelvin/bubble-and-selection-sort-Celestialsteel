@@ -21,11 +21,12 @@ def main():
         print("The list is empty.")
     sorted_list = selection_sort(unsorted_list)
     print("Sorted list is:", sorted_list)
-
+x
 
 if __name__ == "__main__":
     main()
 
+#this is a comment
 
     # TODO: Implement selection sort
     pass
